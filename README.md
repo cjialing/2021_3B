@@ -24,3 +24,14 @@
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
 
+![img](nkust2.jpg "民以食為天")
+
+- [ ] todo list
+- [x] done 1
+- [ ] unfinished
+- [x] done2
+
+```python
+str = "This is a String"
+print(str)
+```
