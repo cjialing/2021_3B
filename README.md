@@ -28,6 +28,17 @@
 
 ![img](nkust2.jpg "民以食為天")
 
+Emphasis, aka italics, with asterisks or underscores.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with **asterisks** and *underscores*.
+
+Strikethrough uses two tildes. ~~Scratch this~~.
+
+>台中市
+>>后里區
+
 - [ ] todo list
 - [x] done 1
 - [ ] unfinished
